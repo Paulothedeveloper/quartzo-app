@@ -1,46 +1,96 @@
 <div align="center">
 
+<img src="assets/quartzo-logo.png" alt="Quartzo" width="150" style="border-radius:28px" />
+
 # Quartzo
 
-**Segundo cérebro em Markdown, rápido e 100% offline. Suas notas são seus arquivos.**
+**Seu segundo cérebro em Markdown — local-first, rápido e 100% offline. Suas notas são seus arquivos, na sua máquina, pra sempre.**
 
-![status](https://img.shields.io/badge/status-%C3%80%20VENDA-30d158?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Windows%2520%7C%2520macOS-1f1f1f?style=for-the-badge)
-
-[![Comprar](https://img.shields.io/badge/Comprar-R%24%20150-30d158?style=for-the-badge)](https://paulocodex.com/comprar?product=quartzo)
+[![Status — À VENDA](https://img.shields.io/badge/status-%C3%80%20VENDA-30d158?style=for-the-badge)](https://paulocodex.com/comprar?product=quartzo)
+[![Plataformas](https://img.shields.io/badge/Windows%20%7C%20macOS-30d158?style=for-the-badge&logo=apple&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
+[![Comprar — R$ 150](https://img.shields.io/badge/Comprar%20%E2%80%94%20licen%C3%A7a%20vital%C3%ADcia-R%24%20150-30d158?style=for-the-badge&logo=gumroad&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
 
 </div>
 
-
 ---
 
+Quartzo é um app de conhecimento pessoal (PKM) **local-first** no espírito do Obsidian: você escreve em **Markdown**, conecta ideias com `[[wikilinks]]`, visualiza o **grafo** da sua base, desenha no **canvas** e volta a qualquer nota pelos **backlinks**. Sem nuvem obrigatória, sem conta, sem servidor entre você e o seu texto.
 
-<div align="center"><img src="https://paulocodex.com/products/quartzo-shot.png" alt="Quartzo" width="760" style="border-radius:12px" /></div>
+<div align="center"><img src="assets/quartzo-shot.png" alt="Tela inicial do Quartzo" width="820" style="border-radius:12px" /></div>
 
+## ✨ Por que Quartzo
 
-## ✨ O que faz
+- 🗂️ **Suas notas são seus arquivos.** Tudo vira `.md` de texto puro na *sua* pasta — nada de formato fechado, nada de banco proprietário. Abre no Quartzo hoje, no bloco de notas daqui a 10 anos.
+- 🔌 **100% offline, sem conta.** Abre sem internet, salva sozinho no disco. Seus dados nunca saem da sua máquina a menos que *você* mande.
+- 🕸️ **Grafo, canvas e backlinks.** Veja como suas ideias se conectam em gemas hexagonais coloridas por pasta, desenhe no canvas infinito e navegue por tudo que aponta pra nota atual.
+- ⚡ **Busca instantânea.** Encontre qualquer nota em milissegundos, mesmo com milhares de arquivos — indexação nativa em Rust.
+- ✍️ **Editor de verdade.** CodeMirror 6 em três modos (edição / dividido / leitura), `[[wikilinks]]`, transclusão `![[nota]]`, tags, views dinâmicas (tabela / kanban / tarefas), Mermaid e KaTeX.
+- 🕘 **Histórico de versões local.** Git nativo por baixo — volte no tempo sem depender de nuvem nenhuma.
+- 🎨 **Claro e escuro, ambos de primeira.** Identidade cristalina: ciano `#67E8F9` sobre navy. Ambos os temas nascem prontos.
+- 💾 **Sync com Google Drive** *(Pro)* e **export DOCX / PDF / HTML** *(Pro)* — quando você quiser levar pra fora.
+- 🖥️ **Windows e macOS** — build universal (Intel + Apple Silicon).
 
-- Markdown local-first, sem nuvem obrigatória
-- Grafo, canvas e backlinks
-- Busca instantânea offline
-- Sync com Google Drive (Pro)
-- Export DOCX / PDF / HTML (Pro)
-- Núcleo grátis pra sempre
+<div align="center">
+  <img src="assets/quartzo-editor.png" alt="Editor do Quartzo" width="49%" />
+  <img src="assets/quartzo-graph.png" alt="Grafo do Quartzo" width="49%" />
+</div>
 
-## 🔗 Saiba mais
+## 💎 Núcleo grátis, Pro perpétuo
 
-- **Página do projeto:** https://paulocodex.com/p/quartzo
-- **Comprar — R$ 150:** https://paulocodex.com/comprar?product=quartzo
-- **Página do projeto:** https://paulocodex.com/p/quartzo
+Quartzo é **open-core**: o núcleo é grátis pra sempre e o Pro é uma **compra única**.
 
-## 👤 Sobre o dev
+| | Grátis (pra sempre) | Pro |
+|---|:---:|:---:|
+| Editor Markdown (3 modos) | ✅ | ✅ |
+| Grafo · Canvas · Backlinks | ✅ | ✅ |
+| Busca instantânea offline | ✅ | ✅ |
+| `[[wikilinks]]` · tags · views · Mermaid · KaTeX | ✅ | ✅ |
+| Temas claro / escuro | ✅ | ✅ |
+| Versões locais (Git nativo) | ✅ | ✅ |
+| **Sync com Google Drive** | — | ✅ |
+| **Export DOCX / PDF / HTML** | — | ✅ |
+| **Temas-gema extras** | — | ✅ |
 
-**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
-
----
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+### ➡️ [Comprar Quartzo Pro — R$ 150](https://paulocodex.com/comprar?product=quartzo)
 
-_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+**Licença vitalícia. Sem mensalidade. Pague no site, receba a chave por email, cole no app — é seu pra sempre.**
+
+</div>
+
+## 🆚 Quartzo vs. Obsidian
+
+O Obsidian é ótimo — e o Quartzo compartilha a mesma alma local-first: **suas notas são arquivos `.md`, no seu disco, sem lock-in.** A diferença está no modelo:
+
+- **Compra única, não assinatura.** O sync e o export oficiais do Obsidian são *mensalidades* (Sync/Publish). No Quartzo, sync com Drive e export são **um pagamento só, perpétuo**.
+- **Preço honesto.** Uma licença cobre tudo. Sem cobrança recorrente pra sincronizar suas próprias notas.
+- **Leve e nativo.** Núcleo em Rust (Tauri) — abre rápido, ocupa pouco, e não é um navegador disfarçado.
+- **Mesma liberdade de dados.** Texto puro na sua pasta. Se um dia você quiser sair, seus arquivos já estão lá, legíveis, sem exportador nenhum.
+
+> Migra fácil: aponta o Quartzo pra sua pasta de notas `.md` existente e pronto — seus `[[wikilinks]]` e tags já funcionam.
+
+## 🖥️ Requisitos
+
+- **Windows 10 (build 1809+) ou Windows 11**, ou **macOS** (Intel ou Apple Silicon)
+- Sem GPU dedicada, sem internet obrigatória, sem conta
+
+## 👤 Sobre o desenvolvedor
+
+**Paulo** é produtor de vídeo e desenvolvedor indie brasileiro, de Porto Velho/RO. O Quartzo nasceu da vontade de ter um segundo cérebro que fosse **dele de verdade** — arquivos abertos, offline, sem aluguel mensal pra guardar as próprias ideias. Ele desenvolve de forma aberta, ouve quem usa, e trata cada detalhe (do grafo em gemas à refração de luz da marca) com capricho de artesão.
+
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) · 🌐 [paulocodex.com](https://paulocodex.com) · 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+## 📜 Sobre esta página
+
+Esta é a **apresentação pública** do Quartzo. O código-fonte é privado; aqui mostramos a cara, a direção e o valor do produto — nada exposto além do que você vê. Ao comprar, você recebe os instaladores (Windows e macOS) e sua license key.
+
+---
+
+<div align="center">
+
+**Quartzo** — seu conhecimento, em cristal. 💎
+
+[![Comprar — R$ 150](https://img.shields.io/badge/Comprar%20agora-R%24%20150-30d158?style=for-the-badge&logo=gumroad&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
 
 </div>
