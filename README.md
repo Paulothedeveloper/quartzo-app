@@ -77,20 +77,18 @@ O Obsidian é ótimo — e o Quartzo compartilha a mesma alma local-first: **sua
 
 ## 👤 Sobre o desenvolvedor
 
-**Paulo** é produtor de vídeo e desenvolvedor indie brasileiro, de Porto Velho/RO. O Quartzo nasceu da vontade de ter um segundo cérebro que fosse **dele de verdade** — arquivos abertos, offline, sem aluguel mensal pra guardar as próprias ideias. Ele desenvolve de forma aberta, ouve quem usa, e trata cada detalhe (do grafo em gemas à refração de luz da marca) com capricho de artesão.
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) · 🌐 [paulocodex.com](https://paulocodex.com) · 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
-## 📜 Sobre esta página
-
-Esta é a **apresentação pública** do Quartzo. O código-fonte é privado; aqui mostramos a cara, a direção e o valor do produto — nada exposto além do que você vê. Ao comprar, você recebe os instaladores (Windows e macOS) e sua license key.
+<br clear="left" />
 
 ---
 
 <div align="center">
 
-**Quartzo** — seu conhecimento, em cristal. 💎
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-[![Comprar — R$ 150](https://img.shields.io/badge/Comprar%20agora-R%24%20150-30d158?style=for-the-badge&logo=gumroad&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
