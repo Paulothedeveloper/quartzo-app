@@ -1,28 +1,46 @@
-# Quartzo — Segundo cérebro em Markdown, local-first
+<div align="center">
 
-![status](https://img.shields.io/badge/status-À_VENDA-brightgreen) &nbsp; por **Paulo Adriel** · [Paulocodex](https://paulocodex.com)
+# Quartzo
 
-Quartzo é um segundo cérebro em Markdown, rápido e 100% offline — suas notas são seus arquivos, sem nuvem obrigatória e sem conta. Grafo, canvas, backlinks e busca instantânea. Núcleo grátis pra sempre; Pro perpétuo com sync do Drive, export e temas. Windows + Mac.
+**Segundo cérebro em Markdown, rápido e 100% offline. Suas notas são seus arquivos.**
 
-## O que faz
+![status](https://img.shields.io/badge/status-%C3%80%20VENDA-30d158?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Windows%2520%7C%2520macOS-1f1f1f?style=for-the-badge)
 
-- Markdown local-first, seus arquivos
+[![Comprar](https://img.shields.io/badge/Comprar-R%24%20150-30d158?style=for-the-badge)](https://paulocodex.com/comprar?product=quartzo)
+
+</div>
+
+
+---
+
+
+<div align="center"><img src="https://paulocodex.com/products/quartzo-shot.png" alt="Quartzo" width="760" style="border-radius:12px" /></div>
+
+
+## ✨ O que faz
+
+- Markdown local-first, sem nuvem obrigatória
 - Grafo, canvas e backlinks
 - Busca instantânea offline
 - Sync com Google Drive (Pro)
 - Export DOCX / PDF / HTML (Pro)
 - Núcleo grátis pra sempre
 
-## Status
-
-**À venda** — disponível e com suporte ativo.
-
-## Saiba mais
+## 🔗 Saiba mais
 
 - **Página do projeto:** https://paulocodex.com/p/quartzo
-- **Acessar / comprar:** https://paulocodex.com/comprar?product=quartzo
+- **Comprar — R$ 150:** https://paulocodex.com/comprar?product=quartzo
+- **Página do projeto:** https://paulocodex.com/p/quartzo
+
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
 
 ---
-_Este repositório é apenas a **apresentação pública** do projeto. O código-fonte é fechado e não é distribuído aqui._
+<div align="center">
 
-Contato: paulobatista19988@proton.me
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+
+</div>
