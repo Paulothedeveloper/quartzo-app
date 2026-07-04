@@ -8,7 +8,7 @@
 
 [![Status — À VENDA](https://img.shields.io/badge/status-%C3%80%20VENDA-30d158?style=for-the-badge)](https://paulocodex.com/comprar?product=quartzo)
 [![Plataformas](https://img.shields.io/badge/Windows%20%7C%20macOS-30d158?style=for-the-badge&logo=apple&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
-[![Comprar — R$ 150](https://img.shields.io/badge/Comprar%20%E2%80%94%20licen%C3%A7a%20vital%C3%ADcia-R%24%20150-30d158?style=for-the-badge&logo=gumroad&logoColor=white)](https://paulocodex.com/comprar?product=quartzo)
+[![Comprar — R$ 150](https://img.shields.io/badge/Comprar%20%E2%80%94%20licen%C3%A7a%20vital%C3%ADcia-R%24%20150-30d158?style=for-the-badge)](https://paulocodex.com/comprar?product=quartzo)
 
 </div>
 
