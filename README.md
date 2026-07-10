@@ -22,11 +22,11 @@ Quartzo é um app de conhecimento pessoal (PKM) **local-first** no espírito do 
 
 - 🗂️ **Suas notas são seus arquivos.** Tudo vira `.md` de texto puro na *sua* pasta — nada de formato fechado, nada de banco proprietário. Abre no Quartzo hoje, no bloco de notas daqui a 10 anos.
 - 🔌 **100% offline, sem conta.** Abre sem internet, salva sozinho no disco. Seus dados nunca saem da sua máquina a menos que *você* mande.
-- 🕸️ **Grafo, canvas e backlinks.** Veja como suas ideias se conectam em gemas hexagonais coloridas por pasta, desenhe no canvas infinito e navegue por tudo que aponta pra nota atual.
+- 🕸️ **Grafo, canvas e backlinks.** Veja como suas ideias se conectam numa rede neural 2D — cada pasta vira uma região colorida — desenhe no canvas infinito e navegue por tudo que aponta pra nota atual.
 - ⚡ **Busca instantânea.** Encontre qualquer nota em milissegundos, mesmo com milhares de arquivos — indexação nativa em Rust.
 - ✍️ **Editor de verdade.** CodeMirror 6 em três modos (edição / dividido / leitura), `[[wikilinks]]`, transclusão `![[nota]]`, tags, views dinâmicas (tabela / kanban / tarefas), Mermaid e KaTeX.
 - 🕘 **Histórico de versões local.** Git nativo por baixo — volte no tempo sem depender de nuvem nenhuma.
-- 🎨 **Claro e escuro, ambos de primeira.** Identidade cristalina: ciano `#67E8F9` sobre navy. Ambos os temas nascem prontos.
+- 🎨 **Claro e escuro, ambos de primeira.** Identidade cristalina: violeta `#A78BFA` com brilho ciano `#67E8F9`, sobre navy. Ambos os temas nascem prontos.
 - 💾 **Sync com Google Drive** *(Pro)* e **export DOCX / PDF / HTML** *(Pro)* — quando você quiser levar pra fora.
 - 🖥️ **Windows e macOS** — build universal (Intel + Apple Silicon).
 
