@@ -75,6 +75,14 @@ O Obsidian é ótimo — e o Quartzo compartilha a mesma alma local-first: **sua
 - **Windows 10 (build 1809+) ou Windows 11**, ou **macOS** (Intel ou Apple Silicon)
 - Sem GPU dedicada, sem internet obrigatória, sem conta
 
+## 🥷 Mascote
+
+<img src="https://paulocodex.com/brand/ninjas/quartzo.png" alt="Quartzo — ninja" width="200" align="right" />
+
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **Quartzo**.
+
+<br clear="right" />
+
 ## 👤 Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
